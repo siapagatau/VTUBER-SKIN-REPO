@@ -1,0 +1,92 @@
+{
+ "skins": [
+  {
+   "id": "kai",
+   "name": "Kai",
+   "version": "1.0",
+   "author": "image_to_skin",
+   "path": "skins/kai/",
+   "preview": "preview.png",
+   "files": {
+    "skin.json": {
+     "sha256": "bc87b77199befff458cd31b60559246e6ff0d6d0deb3b784ce3e70061593a0e3",
+     "size": 153
+    },
+    "skin.svg": {
+     "sha256": "e73ceca2eb4de3c7ef85ce84f8d57996162c571c2d89d5672afcb74bba51a67a",
+     "size": 4898363
+    },
+    "preview.png": {
+     "sha256": "e645c9e880364ebd7ac8700e1efb7ff9a47c61bc1fea95ccc0f7e4be9dfd7bb8",
+     "size": 221589
+    }
+   }
+  },
+  {
+   "id": "kina",
+   "name": "Kina",
+   "version": "1.0",
+   "author": "image_to_skin",
+   "path": "skins/kina/",
+   "preview": "preview.png",
+   "files": {
+    "skin.json": {
+     "sha256": "4f85e134732dd3a771ae95a38fbafc5bdbff2dd66245775b667e8cbe329e188d",
+     "size": 155
+    },
+    "skin.svg": {
+     "sha256": "1d6de512aa3b085f4d5a20e86c773ece27d717dcabf24136302586efb6355645",
+     "size": 4173745
+    },
+    "preview.png": {
+     "sha256": "c5c86c3a0319e345f57d85204d254ebd6725d494beb73f3aafdf497ae8b0ac31",
+     "size": 218842
+    }
+   }
+  },
+  {
+   "id": "mash",
+   "name": "Mash",
+   "version": "1.3",
+   "author": "image_to_skin",
+   "path": "skins/mash/",
+   "preview": "preview.png",
+   "files": {
+    "skin.json": {
+     "sha256": "ebb5f4b38a85ce8b7cb9620a2006dc860e5b219576a48bacff3b046a30a184c7",
+     "size": 154
+    },
+    "skin.svg": {
+     "sha256": "66572cf22edd7e3c0f5d990249309fb540a7ba0b409dd22d780f593816266379",
+     "size": 2360211
+    },
+    "preview.png": {
+     "sha256": "376cb126bf9c888159afa34aec2b252ee4e38398090bedcf84c354931135551d",
+     "size": 171691
+    }
+   }
+  },
+  {
+   "id": "mommy",
+   "name": "Mommy",
+   "version": "3.7",
+   "author": "image_to_skin",
+   "path": "skins/mommy/",
+   "preview": "preview.png",
+   "files": {
+    "skin.json": {
+     "sha256": "7de9d2912c129d5a0e87a71d5cc461b55558354ef8bb2ab68d0d71f33652c3c1",
+     "size": 154
+    },
+    "skin.svg": {
+     "sha256": "288bda54d5525f639a0dc0d1ac2a31259812dc30b44205f93f7db0a370c561c1",
+     "size": 1941406
+    },
+    "preview.png": {
+     "sha256": "045b43abd4d041b4f5ab54c7cd741ebe585985507721d2d90967ee3ea991c78f",
+     "size": 194663
+    }
+   }
+  }
+ ]
+}

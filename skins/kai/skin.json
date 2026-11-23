@@ -1,0 +1,9 @@
+{
+ "schemaVersion": 4,
+ "type": "vtuber",
+ "name": "Kai",
+ "version": "1.0",
+ "author": "image_to_skin",
+ "svg": "skin.svg",
+ "viewBox": "0 0 918 1148"
+}

@@ -1,0 +1,9 @@
+{
+ "schemaVersion": 4,
+ "type": "vtuber",
+ "name": "Mash",
+ "version": "1.3",
+ "author": "image_to_skin",
+ "svg": "skin.svg",
+ "viewBox": "0 0 1200 675"
+}
